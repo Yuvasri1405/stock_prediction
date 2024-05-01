@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import date
-from prophet.plot import plot_plotly
+
 import plotly.graph_objs as go
 
 START = "2015-02-01"
