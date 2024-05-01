@@ -2,4 +2,3 @@ streamlit==1.6.0
 yfinance==0.1.63
 prophet
 plot
-plotly
