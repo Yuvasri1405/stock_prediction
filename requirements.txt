@@ -1,0 +1,4 @@
+yfinance
+prophet
+plot
+plotly.graph_objs
