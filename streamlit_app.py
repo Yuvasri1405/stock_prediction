@@ -1,7 +1,7 @@
 import streamlit as st
 from datetime import date
 
-import plotly.graph_objs as go
+
 
 START = "2015-02-01"
 TODAY = date.today().strftime("%Y-%m-%d")
