@@ -1,6 +1,5 @@
 import streamlit as st
 from datetime import date
-from prophet import Prophet
 from prophet.plot import plot_plotly
 import plotly.graph_objs as go
 
